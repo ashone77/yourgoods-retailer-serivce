@@ -21,6 +21,6 @@ class RetailerController {
     fun getAllRetailers(): Unit? {
         return retailerService?.getAllRetailers()
     }
-
+//good service
     
 }
